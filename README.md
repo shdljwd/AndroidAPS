@@ -59,7 +59,8 @@ You need to get the secerts of the key store file to sign your application. For 
 Please follow these steps:
 * Fork this repository.
 * Scan the below QR code and subscribe "一型码农Lex" WeChat Channel.  
-<a href="/Documentation/wechat_qr.png"><img src="/Documentation/wechat_qr.png?raw=true" alt="WeChat Channel QR code" width="340"></a>  
+<a href="/Documentation/wechat_qr.png"><img src="/Documentation/wechat_qr.png?raw=true" alt="WeChat Channel QR code" width="340"></a>
+
 * Join the WeChat group and ask for the secrets. (Get the WeChat group QR code form the middle menu of "一型码农Lex" WeChat Channel. Scan to join.)
 * Add below secrets in the  `Actions secrets and variables` settings of your repository.  
 <a href="/Documentation/screen1.png"><img src="/Documentation/screen1.png?raw=true" alt="Screenshot of Actions secrets" width="800"></a>  
